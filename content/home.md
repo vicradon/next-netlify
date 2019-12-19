@@ -1,5 +1,5 @@
 ---
-title: Awesome kitties
+title: Awesome kitties!
 date: 2019-12-19T14:31:00.000Z
 cats:
   - description: >-
