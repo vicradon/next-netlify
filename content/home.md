@@ -3,7 +3,7 @@ title: Awesome kitties!
 date: 2019-12-19T14:31:00.000Z
 cats:
   - description: Grumpy cat is an American celebrity cat known for her grumpy appearance.
-    name: Grumpy cat (Tardar Sauce)
+    name: Grumpy cat (Tardar Sauce) and other stuff
   - description: >-
       Maru is a Scottish Fold from Japan, and he loves boxes. And I'm editing
       the Maru collection
